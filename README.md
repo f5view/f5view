@@ -17,9 +17,4 @@ Backend-разработчик на Go.
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-- 🔭 Сейчас пишу: REST API для трекера задач (CRUD, PostgreSQL, JWT-авторизация)
-- 🌱 Углубляюсь в: конкурентность в Go (горутины, каналы), тестирование, работу с очередями
-- 🎯 Цель: пройти стажировку и вырасти до уверенного мидла на Go
-- 📫 Связаться: [ваш telegram/почта/LinkedIn]
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=tokyonight)
